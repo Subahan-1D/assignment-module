@@ -191,6 +191,11 @@
     width: 573px;
     height: 200px;;
 }
+.travel-2 h4{
+    font-size: 30px;
+    margin-bottom: 10px;
+
+}
 .travel-house{
     display: flex;
     justify-content: center;
