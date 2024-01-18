@@ -1,0 +1,224 @@
+@media screen and (max-width:600px) {
+    
+    .mid-content{
+        max-width: 90%;
+        padding: 0 30px;
+    }
+    .header-section,
+    .menu-container
+    {
+        flex-direction: column;
+        gap: 15px;
+        margin-left: 10px;
+    }
+    .banner-section
+    {
+        width: 50%;
+        padding: 0 30px;
+        
+    }
+    .banner-text{
+        flex-direction: column;
+        width: 80%;
+        margin-right: 20px;
+
+
+    }
+    .input-form{
+        display: block;
+        flex-direction: column;
+        width: 40%;
+        margin-right: 10px;
+        margin-left: 10px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        gap: 5px;
+    }
+    /* simple place */
+    .simple-place{
+        flex-direction: column;
+        width: 100%;
+    }
+    /* mardivs */
+
+    .maldives{
+        display: block;
+        width: 100%;
+        height: auto;
+       }
+       .srilanka img{
+        flex-direction: column;
+        display: block;
+        width: 100%;
+        height: auto;
+        margin-top: 10px;
+
+    }
+    .simple-item{
+        padding: 0 20px;
+    }
+    .place img{
+        flex-direction: column;
+        width: 100%;
+        
+    }
+   .banner-section{
+    width: 100%;
+    height: auto;
+    padding: 0 30px;
+   }
+   .simple-place {
+    display: block;
+    width: 100%;
+    height: auto;
+   }
+  
+    
+    .bangladesh{
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+    .travel-container{
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+    .satoroni-1{
+        width: 90%;
+        padding: 0 30px;
+        height: 100%;
+    }
+    
+    .satoroni-text{
+        width: 50%;
+        height: 50%;
+    }
+    .simple-text-lost{
+        display: block;
+    }
+    .simple-text-lost{
+        display: block;
+    }
+    .newslater{
+        display: block;
+        width: 100%;
+        height: auto;
+        padding: 5px 30px;
+    }
+    .simple-img img{
+        width: 100%;
+        height: auto;
+        padding: 0 50px;
+    }
+
+   
+}
+
+@media screen and (min-width:600px) and (max-width:992px) {
+    .mid-content{
+        max-width: 70%;
+        padding: 0 60px;
+    }
+    .header-section,
+    .menu-container
+    {
+        flex-direction: row;
+        gap: 15px;
+        width: 70%;
+    }
+    .banner-section
+    {
+        width: 50%;
+        padding: 0 30px;
+        
+    }
+    .banner-text{
+        width: 80%;
+        margin-right: 20px;
+
+
+    }
+    .input-form{
+       width: 100%;
+       height: auto;
+    }
+    /* simple place */
+    .simple-place{
+        flex-direction: column;
+        width: 100%;
+    }
+    /* mardivs */
+
+    .maldives{
+        display: flex;
+        width: 100%;
+        height: auto;
+       }
+       .srilanka img{
+        width: 30%;
+        height: auto;
+        margin-top: 10px;
+
+    }
+    .simple-item{
+        padding: 0 20px;
+    }
+    .place img{
+        flex-direction: column;
+        width: 100%;
+        
+    }
+   .banner-section{
+    width: 100%;
+    height: auto;
+    padding: 0 30px;
+   }
+   .simple-place {
+    display: block;
+    width: 100%;
+    height: auto;
+   }
+  
+    
+    .bangladesh{
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+    .travel-container{
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+    .satoroni-1{
+        width: 90%;
+        padding: 0 30px;
+        height: 100%;
+    }
+    
+    .satoroni-text{
+        width: 50%;
+        height: 50%;
+    }
+    .simple-text-lost{
+        display: block;
+    }
+    .simple-text-lost{
+        display: block;
+    }
+    .newslater{
+        display: block;
+        width: 100%;
+        height: auto;
+        padding: 5px 30px;
+    }
+    .simple-img img{
+        width: 100%;
+        height: auto;
+        padding: 0 50px;
+    }
+
+    
+    
+}
